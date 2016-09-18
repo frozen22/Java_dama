@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><game>
+  <move number="1" color="w">
+    <from>g3</from>
+    <to>h4</to>
+    <taken/>
+  </move>
+  <move number="2" color="b">
+    <from>b6</from>
+    <to>c5</to>
+    <taken/>
+  </move>
+  <move number="3" color="w">
+    <from>e3</from>
+    <to>d4</to>
+    <taken/>
+  </move>
+  <move number="4" color="b">
+    <from>c5</from>
+    <to>e3</to>
+    <taken>d4</taken>
+  </move>
+  <move number="5" color="w">
+    <from>f2</from>
+    <to>d4</to>
+    <taken>e3</taken>
+  </move>
+  <move number="6" color="b">
+    <from>d6</from>
+    <to>e5</to>
+    <taken/>
+  </move>
+  <move number="7" color="w">
+    <from>d2</from>
+    <to>e3</to>
+    <taken/>
+  </move>
+  <move number="8" color="b">
+    <from>a7</from>
+    <to>b6</to>
+    <taken/>
+  </move>
+  <move number="9" color="w">
+    <from>c3</from>
+    <to>b4</to>
+    <taken/>
+  </move>
+  <move number="10" color="b">
+    <from>e5</from>
+    <to>c3</to>
+    <taken>d4</taken>
+  </move>
+  <move number="11" color="w">
+    <from>b2</from>
+    <to>d4</to>
+    <taken>c3</taken>
+  </move>
+  <move number="12" color="b">
+    <from>e7</from>
+    <to>d6</to>
+    <taken/>
+  </move>
+  <move number="13" color="w">
+    <from>d4</from>
+    <to>e5</to>
+    <taken/>
+  </move>
+  <move number="14" color="b">
+    <from>d6</from>
+    <to>f4</to>
+    <taken>e5</taken>
+  </move>
+  <move number="15" color="w">
+    <from>e3</from>
+    <to>g5</to>
+    <taken>f4</taken>
+  </move>
+  <move number="16" color="b">
+    <from>h6</from>
+    <to>f4</to>
+    <taken>g5</taken>
+  </move>
+  <move number="17" color="w">
+    <from>b4</from>
+    <to>c5</to>
+    <taken/>
+  </move>
+  <move number="18" color="b">
+    <from>b6</from>
+    <to>d4</to>
+    <taken>c5</taken>
+  </move>
+  <move number="19" color="w">
+    <from>e1</from>
+    <to>f2</to>
+    <taken/>
+  </move>
+  <move number="20" color="b">
+    <from>b8</from>
+    <to>a7</to>
+    <taken/>
+  </move>
+  <move number="21" color="w">
+    <from>h2</from>
+    <to>g3</to>
+    <taken/>
+  </move>
+  <move number="22" color="b">
+    <from>f4</from>
+    <to>h2</to>
+    <taken>g3</taken>
+  </move>
+  <move number="23" color="w">
+    <from>f2</from>
+    <to>g3</to>
+    <taken/>
+  </move>
+  <move number="24" color="b">
+    <from>d4</from>
+    <to>e3</to>
+    <taken/>
+  </move>
+  <move number="25" color="w">
+    <from>c1</from>
+    <to>d2</to>
+    <taken/>
+  </move>
+  <move number="26" color="b">
+    <from>e3</from>
+    <to>c1</to>
+    <taken>d2</taken>
+  </move>
+  <move number="27" color="w">
+    <from>a1</from>
+    <to>b2</to>
+    <taken/>
+  </move>
+  <move number="28" color="b">
+    <from>c7</from>
+    <to>d6</to>
+    <taken/>
+  </move>
+  <move number="29" color="w">
+    <from>g3</from>
+    <to>f4</to>
+    <taken/>
+  </move>
+  <move number="30" color="b">
+    <from>c1</from>
+    <to>g5</to>
+    <taken>f4</taken>
+  </move>
+  <move number="31" color="w">
+    <from>b2</from>
+    <to>c3</to>
+    <taken/>
+  </move>
+  <move number="32" color="b">
+    <from>d8</from>
+    <to>e7</to>
+    <taken/>
+  </move>
+  <move number="33" color="w">
+    <from>g1</from>
+    <to>f2</to>
+    <taken/>
+  </move>
+  <move number="34" color="b">
+    <from>d6</from>
+    <to>e5</to>
+    <taken/>
+  </move>
+  <move number="35" color="w">
+    <from>c3</from>
+    <to>d4</to>
+    <taken/>
+  </move>
+  <move number="36" color="b">
+    <from>e5</from>
+    <to>c3</to>
+    <taken>d4</taken>
+  </move>
+  <move number="37" color="w">
+    <from>a3</from>
+    <to>b4</to>
+    <taken/>
+  </move>
+  <move number="38" color="b">
+    <from>g5</from>
+    <to>e3</to>
+    <taken/>
+  </move>
+  <move number="39" color="w">
+    <from>f2</from>
+    <to>d4</to>
+    <taken>e3</taken>
+  </move>
+  <move number="40" color="b">
+    <from>g7</from>
+    <to>h6</to>
+    <taken/>
+  </move>
+  <move number="41" color="w">
+    <from>h4</from>
+    <to>g5</to>
+    <taken/>
+  </move>
+  <move number="42" color="b">
+    <from>f6</from>
+    <to>h4</to>
+    <taken>g5</taken>
+  </move>
+  <move number="43" color="w">
+    <from>d4</from>
+    <to>e5</to>
+    <taken/>
+  </move>
+  <move number="44" color="b">
+    <from>c3</from>
+    <to>d2</to>
+    <taken/>
+  </move>
+  <move number="45" color="w">
+    <from>b4</from>
+    <to>c5</to>
+    <taken/>
+  </move>
+  <move number="46" color="b">
+    <from>a7</from>
+    <to>b6</to>
+    <taken/>
+  </move>
+  <move number="47" color="w">
+    <from>c5</from>
+    <to>a7</to>
+    <taken>b6</taken>
+  </move>
+  <move number="48" color="b">
+    <from>h4</from>
+    <to>g3</to>
+    <taken/>
+  </move>
+  <move number="49" color="w">
+    <from>a7</from>
+    <to>b8</to>
+    <taken/>
+  </move>
+  <move number="50" color="b">
+    <from>h6</from>
+    <to>g5</to>
+    <taken/>
+  </move>
+  <move number="51" color="w">
+    <from>e5</from>
+    <to>f6</to>
+    <taken/>
+  </move>
+  <move number="52" color="b">
+    <from>g3</from>
+    <to>f2</to>
+    <taken/>
+  </move>
+  <move number="53" color="w">
+    <from>f6</from>
+    <to>d8</to>
+    <taken>e7</taken>
+  </move>
+  <move number="54" color="b">
+    <from>f8</from>
+    <to>g7</to>
+    <taken/>
+  </move>
+  <move number="55" color="w">
+    <from>d8</from>
+    <to>h4</to>
+    <taken>g5</taken>
+  </move>
+  <move number="56" color="b">
+    <from>d2</from>
+    <to>e1</to>
+    <taken/>
+  </move>
+  <move number="57" color="w">
+    <from>b8</from>
+    <to>c7</to>
+    <taken/>
+  </move>
+  <move number="58" color="b">
+    <from>g7</from>
+    <to>h6</to>
+    <taken/>
+  </move>
+  <move number="59" color="w">
+    <from>c7</from>
+    <to>b6</to>
+    <taken/>
+  </move>
+  <move number="60" color="b">
+    <from>f2</from>
+    <to>g1</to>
+    <taken/>
+  </move>
+  <move number="61" color="w">
+    <from>b6</from>
+    <to>a5</to>
+    <taken/>
+  </move>
+  <move number="62" color="b">
+    <from>h6</from>
+    <to>g5</to>
+    <taken/>
+  </move>
+  <move number="63" color="w">
+    <from>h4</from>
+    <to>d8</to>
+    <taken>g5</taken>
+  </move>
+  <move number="64" color="b">
+    <from>e1</from>
+    <to>g3</to>
+    <taken/>
+  </move>
+  <move number="65" color="w">
+    <from>a5</from>
+    <to>b6</to>
+    <taken/>
+  </move>
+  <move number="66" color="b">
+    <from>g1</from>
+    <to>a7</to>
+    <taken>b6</taken>
+  </move>
+  <move number="67" color="w">
+    <from>d8</from>
+    <to>c7</to>
+    <taken/>
+  </move>
+  <move number="68" color="b">
+    <from>g3</from>
+    <to>b8</to>
+    <taken>c7</taken>
+  </move>
+</game>
